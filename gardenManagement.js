@@ -25,8 +25,9 @@ console.log(timeofDay());
 let soilMoisture = 30;
 while (soilMoisture < 40) {
     soilMoisture += 5;
-}
+
 console.log(soilMoisture);
+}
 
 
 
